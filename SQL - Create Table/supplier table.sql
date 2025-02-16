@@ -8,3 +8,4 @@ insert into student(name, age, height) values("Arinjoy", 13, 172);
 insert into student(name, age, height) values("Rajiv II", 14, 180);
 select * from student;
 select name, age from student;
+insert
